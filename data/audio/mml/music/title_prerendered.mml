@@ -1,0 +1,21 @@
+@S0 = { title_prerendered.flac }
+
+A t120 @S0
+A o3c+4.r4.r4.
+A r4.r1.
+A r+1.
+A r8r2
+A r8
+A r16r4r16r+4.
+A r+4.r4.r4.
+A r4.r1.
+A r+1.
+A r8r2
+A r8
+A r16r4r16r+4.
+A r+4.r4.r4.
+A r4.r1.
+A r+1.
+A r8r2
+A r8
+A r16r4r16r+4.
