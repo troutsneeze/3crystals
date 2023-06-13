@@ -27,7 +27,7 @@ Now you will need certain build tools and "-dev" packages installed to
 complete the process.
 
 If you want to compress the data to a datafile, then build the tools,
-put compress_dir in your PATH and run these two steps after 7) above
+put compress_dir in your PATH and run these steps after 7) above
 in place of the rest.
 
 8) ia
