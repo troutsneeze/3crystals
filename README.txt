@@ -21,7 +21,15 @@ in the build scripts are hard-coded.
 7) ba
 8) cd 3crystals/build
 9) cp -a ../data .
-10) ./3crystals
+10) ./3\ Crystals
 
 Now you will need certain build tools and "-dev" packages installed to
 complete the process.
+
+If you want to compress the data to a datafile, then build the tools,
+put compress_dir in your PATH and run these two steps after 7) above
+in place of the rest.
+
+8) ia
+9) cd 3
+10) ./3\ Crystals
