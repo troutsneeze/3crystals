@@ -4,3 +4,24 @@ Find links to the game at https://b1stable.com.
 
 The code isn't very organized yet and it's C++ not C. For an example with nice
 code see Monster RPG 3, Dog-O or Tower To Heaven.
+
+
+Building
+--------
+
+Well on Linux it's not very difficult to build this game, but the paths
+in the build scripts are hard-coded.
+
+1) cd ~
+2) mkdir code
+3) cd code
+4) git clone https://github.com/troutsneeze/3crystals.git
+5) export PATH=~/code/3crystals/misc/batch_files/build/linux:$PATH
+6) ca
+7) ba
+8) cd 3crystals/build
+9) cp -a ../data .
+10) ./3crystals
+
+Now you will need certain build tools and "-dev" packages installed to
+complete the process.
